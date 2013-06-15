@@ -17,6 +17,7 @@ PINOUT
 ======
 
 This is the final pinout of a programmed chip: 
+
 ![](http://i.imgur.com/cBBwIoC.jpg)
 
 COMPILING
